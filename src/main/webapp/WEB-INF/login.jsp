@@ -6,7 +6,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Project Manager</title>
+    <title>Joy Bundler</title>
     <style>
         *{
             font-family: "Comic Sans MS", cursive, sans-serif;
@@ -15,7 +15,7 @@
 </head>
 
 <body>
-    <h1 style="color: green;">Joy Blunder Names</h1>
+    <h1 style="color: green;">Joy Bundler Names</h1>
     <div>
         <h2>Register</h2>
         <form:form action="/register" method="POST" modelAttribute="user">
